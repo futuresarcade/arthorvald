@@ -10,7 +10,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Abstract Minimalist Art"
+  tagline = ""
   author = "Toma Nistor"
   description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
   logoBig = "/images/osprey-logo.png"
