@@ -25,6 +25,7 @@
               <h2>{{ .Title }}</h2>
             </div>-->
           </div>
+
         {{ end }}
       {{ end }}
 
@@ -63,7 +64,6 @@
               <h2>{{ .Title }}</h2>
             </div>-->
           </div>
-
         {{ end }}
       {{ end }}
 
@@ -85,14 +85,15 @@
           <div class= "gallery-img-container">
             <img {{ if .Site.Params.lazyLoading }}data-src="{{ "images/" | relURL }}{{ .Params.image}}" class="lazyload" lazyload="on"{{ else }}src="{{ "images/" | relURL }}{{ .Params.image}}"{{ end }} {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
           </div>
+          <div class="row middle-xs center-xs">
+            <h2>{{ .Title }}</h2>
+          </div>
           <!--<div class="row middle-xs center-xs overlay">
             <a href="#modal-{{ .Scratch.Get "$modalID" }}" class="gallery-modal-link"></a>
             <h2>{{ .Title }}</h2>
           </div>-->
         </div>
-
       {{ end }}
     {{ end }}
-
   </div>
 </section>
