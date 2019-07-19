@@ -1,0 +1,11 @@
++++
+title = "Set 35\"x35\""
+date = 2019-07-17T11:36:23-04:00
+image = "./set.jpg"
+alt = "set"
+color = ""
+link1 = "images/set.jpg"
+link2 = ""
+projectDate = ""
+draft = false
++++

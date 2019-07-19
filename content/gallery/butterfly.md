@@ -4,7 +4,7 @@ title = "Butterfly 46\"x 46\""
 image = "./butterflyorangebg.jpg"
 alt = "Butterfly"
 color = "#F7F7F7"
-link1 = "http://gohugo.io/"
-link2 = "https://github.com/spf13/hugo"
+link1 = "images/butterflyorangebg.jpg"
+link2 = ""
 
 +++
