@@ -6,5 +6,5 @@ alt = "rotation 61x61"
 color = "#F7F7F7"
 link1 = "images/rotation.jpg"
 link2 = ""
-
+price = "$600.00"
 +++

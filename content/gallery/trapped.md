@@ -6,5 +6,6 @@ alt = "Trapped"
 color = "#F7F7F7"
 link1 = "images/15x25_redyellowbluewhitebgws.jpg"
 link2 = ""
+price = "$225.00"
 
 +++

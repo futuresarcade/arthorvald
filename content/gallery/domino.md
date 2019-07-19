@@ -6,5 +6,6 @@ alt = "Domino"
 color = "#F7F7F7"
 link1 = "images/SquaresBlackandWhite.jpg"
 link2 = ""
+price = "$375.00"
 
 +++
