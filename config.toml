@@ -1,4 +1,4 @@
-baseURL = "https://nervous-wing-0e30a4.netlify.com"
+baseURL = "https://thorvald.com"
 languageCode = "en-us"
 title = "Thorvald A. Sanchez"
 tags = ["portfolio", "web design", "blog"]
@@ -11,21 +11,21 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
 [Params]
   tagline = ""
-  author = "Toma Nistor"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  author = "Thorvald Sanchez"
+  description = "Minimalist Cuban Artist"
   logoBig = "/images/osprey-logo.png"
   logoSmall = "/images/osprey-logo.png"
   favicon = "favicon.ico"
   opengraphImage = "/images/osprey.png"
-  email = ""
+  email = "thorvaldsanchez@gmail.com"
   googleTagManger = ""
   customCSS = true
 
   # Social media links in footer
-  twitter = "TomaNistor"
+  twitter = "ThorvaldArt"
   linkedin = "tomanistor"
-  github = "tomanistor"
-  facebook = ""
+  github = "futuresarcade"
+  facebook = "ThorvaldArt"
 
   # Copyright and theme author credit in footer
   copyright = true
@@ -57,8 +57,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#work"
   weight = 2
 [[menu.main]]
-  name = "Blog"
-  url  = "/#blog"
+  name = "Exhibitions"
+  url  = "/#exhibitions"
   weight = 3
 [[menu.main]]
   name = "Contact"

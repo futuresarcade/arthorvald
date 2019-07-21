@@ -8,4 +8,5 @@ link1 = "images/boardsblue39x39.jpg"
 link2 = ""
 projectDate = ""
 draft = false
+price = "$425.00"
 +++
