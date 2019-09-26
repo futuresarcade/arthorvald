@@ -4,7 +4,7 @@ title: "Butterfly 46\"x 46\""
 image: "./butterfly52x52.png"
 alt: "Butterfly"
 color: "#F7F7F7"
-link1: "images/butterfl52x52.png"
+link1: "images/butterfly52x52.png"
 link2: ""
 price: "$450.00"
 ---
