@@ -66,5 +66,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 4
 [[menu.main]]
   name = "Prints"
-  url  = "./prints"
+  url  = "/prints"
   weight = 5
