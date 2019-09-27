@@ -1,4 +1,4 @@
-baseURL = "prints"
+baseURL = "https://www.thorvald.com/prints"
 languageCode = "en-us"
 title = "Thorvald A. Sanchez"
 tags = ["portfolio", "web design", "blog"]
