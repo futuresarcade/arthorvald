@@ -66,5 +66,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 4
 [[menu.main]]
   name = "Prints"
-  url  = "https://stupefied-nightingale-6c2f5b.netlify.com/d"
+  url  = "https://stupefied-nightingale-6c2f5b.netlify.com/"
   weight = 5
