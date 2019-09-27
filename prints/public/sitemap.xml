@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://example.org/</loc>
-      <priority>0</priority>
+      <loc>https://www.thorvald.com/</loc>
+      <lastmod>2019-07-24T17:31:18-04:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.thorvald.com/blog/</loc>
+      <lastmod>2019-07-12T11:50:33-04:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.thorvald.com/blog/selected/</loc>
+      <lastmod>2019-07-12T11:50:33-04:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://www.thorvald.com/about/</loc>
+      <lastmod>2019-07-02T14:37:24-04:00</lastmod>
     </url>
   
 </urlset>

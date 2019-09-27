@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thorvald A. Sanchez</title>
-    <link>https://www.thorvald.com/</link>
-    <description>Recent content on Thorvald A. Sanchez</description>
+    <title>Galleries on Thorvald A. Sanchez</title>
+    <link>https://www.thorvald.com/gallery/</link>
+    <description>Recent content in Galleries on Thorvald A. Sanchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jul 2019 17:31:18 -0400</lastBuildDate>
     
-	<atom:link href="https://www.thorvald.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.thorvald.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -120,31 +120,12 @@
     </item>
     
     <item>
-      <title>Selected Exhibitions</title>
-      <link>https://www.thorvald.com/blog/selected/</link>
-      <pubDate>Fri, 12 Jul 2019 11:50:33 -0400</pubDate>
-      
-      <guid>https://www.thorvald.com/blog/selected/</guid>
-      <description>This browser does not support PDFs. Please download the PDF to view it: Download PDF.</description>
-    </item>
-    
-    <item>
       <title>Inka 59&#34; x 46&#34;</title>
       <link>https://www.thorvald.com/gallery/inkates/</link>
       <pubDate>Fri, 12 Jul 2019 11:07:49 -0400</pubDate>
       
       <guid>https://www.thorvald.com/gallery/inkates/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Thorvald Sanchez</title>
-      <link>https://www.thorvald.com/about/</link>
-      <pubDate>Tue, 02 Jul 2019 14:37:24 -0400</pubDate>
-      
-      <guid>https://www.thorvald.com/about/</guid>
-      <description>Havana, Cuba 1933 - 2017
-Minimalist Artist Self-taught artist, he went to Rome 1960 where he spent a few years, going from there to New York where he opened a studio, in 1970 he moved to Palm Beach, Florida. Selected Exhibitions and collections include: The OEA Permanent Collection of Art, Washington D.C., The Mint Museum of Art, Charlotte, North Carolina. The Society of the Four Arts, Palm Beach, Florida, West Palm Beach International Airport, Palm Beach, Florida.</description>
     </item>
     
     <item>
