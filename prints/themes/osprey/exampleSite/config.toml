@@ -1,7 +1,7 @@
-baseURL = "https://thorvald.com/"
-languageCode = "en-us"
-title = "Thorvald A. Sanchez"
+title = "Osprey Example Site"
+baseURL = "https://tomanistor.com"
 tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
@@ -10,22 +10,22 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = ""
-  author = "Thorvald Sanchez"
-  description = "Minimalist Cuban Artist"
+  tagline = "Osprey Example Site"
+  author = "Toma Nistor"
+  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
   logoBig = "/images/osprey-logo.png"
   logoSmall = "/images/osprey-logo.png"
   favicon = "favicon.ico"
   opengraphImage = "/images/osprey.png"
-  email = "thorvaldsanchez@gmail.com"
+  email = ""
   googleTagManger = ""
-  customCSS = true
+  customCSS = false
 
   # Social media links in footer
-  twitter = "ThorvaldArt"
-  linkedin = ""
-  github = "futuresarcade"
-  facebook = "ThorvaldArt"
+  twitter = "TomaNistor"
+  linkedin = "tomanistor"
+  github = "tomanistor"
+  facebook = ""
 
   # Copyright and theme author credit in footer
   copyright = true
@@ -43,18 +43,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   # Choose either Formspree contact form or Basin contact form
   ajaxFormspree = false
   ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/c6a114cb2e67"
+  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
 
   # Lazy loading with lazysizes
   lazyloading = true
 
 [[menu.main]]
-  name = "Work"
-  url  = "/#work"
-  weight = 1
-[[menu.main]]
   name = "About"
   url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Work"
+  url  = "/#work"
   weight = 2
 [[menu.main]]
   name = "Blog"
@@ -64,7 +64,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   name = "Contact"
   url  = "/#contact"
   weight = 4
-[[menu.main]]
-  name = "Prints"
-  url  = "./prints"
-  weight = 5
