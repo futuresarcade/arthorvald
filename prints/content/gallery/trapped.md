@@ -1,6 +1,6 @@
 +++
 date = "2017-05-15T21:52:57-07:00"
-title = "Trapped 15\ x 25\""
+title = "Trapped 15 x 25\""
 image = "./15x25_redyellowbluewhitebgws.png"
 alt = "Trapped"
 color = "#F7F7F7"
