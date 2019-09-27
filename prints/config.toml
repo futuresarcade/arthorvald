@@ -1,4 +1,4 @@
-baseURL = "https://www.thorvald.com/"
+baseURL = "https://stupefied-nightingale-6c2f5b.netlify.com/"
 languageCode = "en-us"
 title = "Thorvald A. Sanchez"
 tags = ["portfolio", "web design", "blog"]
@@ -49,6 +49,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   lazyloading = true
 
 [[menu.main]]
-  name = "Work"
-  url  = "/#work"
+  name = "Prints"
+  url  = "/Prints"
   weight = 1
